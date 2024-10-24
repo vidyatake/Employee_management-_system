@@ -1,3 +1,18 @@
+Step 1 **Home Page**:
+![1](https://github.com/user-attachments/assets/3ddca19d-2e9f-4f96-b43a-c0f5f01b0197)
+
+
+Step 2 **Addition of Employee in the List**:
+![2](https://github.com/user-attachments/assets/03e43723-1c1a-4482-b478-7ecf06ce8c68)
+
+Step 3 **View of the Employee**:
+![4](https://github.com/user-attachments/assets/8a1c1de6-53b6-4b6f-8c47-16baa5116ee3)
+
+Step 4 **Updation of Employee Details**:
+![3](https://github.com/user-attachments/assets/ddda7523-c87c-4187-8ac5-afd8fc7e7d0d)
+
+Step 5 **Updated Details**:
+![5](https://github.com/user-attachments/assets/7eb72b21-bafa-4dc8-a4b3-055d9bfee3c6)
 
 
 1. **Angular (Frontend)**:
